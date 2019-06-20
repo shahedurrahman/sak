@@ -1,0 +1,21 @@
+{
+  "name": "S.A.K",
+  "description": "Swiss Army Knife",
+  "author": "Shahedur Rahman",
+  "manifest_version": 2,
+  "version": "1.0",
+  "permissions": [
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.youtube.com/*"
+      ],
+      "css": [
+        "youtube.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}

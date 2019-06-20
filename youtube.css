@@ -1,0 +1,12 @@
+.video-ads .ytp-ad-module{
+    display: none !important;
+}
+
+.ytp-ad-text-overlay{
+    display: none !important;
+}
+
+.ytp-ad-image-overlay{
+    display: none !important;
+}
+
