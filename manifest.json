@@ -3,7 +3,7 @@
   "description": "Swiss Army Knife",
   "author": "Shahedur Rahman",
   "manifest_version": 2,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "permissions": [
     "tabs"
   ],
