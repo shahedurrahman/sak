@@ -3,7 +3,7 @@
   "description": "Swiss Army Knife",
   "author": "Shahedur Rahman",
   "manifest_version": 2,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "permissions": [
     "tabs"
   ],
@@ -11,7 +11,8 @@
     {
       "matches": [
         "*://www.youtube.com/*",
-        "*://outlook.live.com/*"
+        "*://outlook.live.com/*",
+        "*://portal.azure.com/*"
       ],
       "css": [
         "style.css"

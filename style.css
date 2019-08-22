@@ -15,3 +15,9 @@
 ._3_hHr3kfEhbNYRFM5YJxH9, ._1_ag99JsBHxI6S4FP5ayPv {
     display: none !important;
 }
+
+/* Azure Portal */
+/* Hide filter icons from dashboard items */
+#web-container > div.fxs-portal-main > main > div.fxs-startboard-target.fxs-theme-context-start.fxs-startboard.fx-rightClick > div.fxs-startboard-layout.fxs-flowlayout > div.fxs-flowlayout-childcontainer > div > div.fxs-part.fxs-part-no-fx-content-padding.fxs-part-clickable > div.fxs-part-filter-button{
+    display: none;
+}
